@@ -1,0 +1,6 @@
+#+TITLE: Petalisp.linear-algebra
+
+This library is inspired by [[https:numpy.org][NumPy]] and [[https:scipy.org][SciPy]].  It aims to be a collection of
+frequently used scientific utilities.  All algorithms are implemented using
+Petalisp lazy arrays and are therefore automatically optimized for any
+available hardware.
